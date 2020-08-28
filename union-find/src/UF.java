@@ -1,5 +1,3 @@
-package princeton.unionfind;
-
 /**
  * Read in numbers of objects n from standard input.
  * Repeat:
@@ -8,8 +6,5 @@ package princeton.unionfind;
  */
 public class UF {
 
-  public static void main(String[] args) {
-    
-  }
 
 }
